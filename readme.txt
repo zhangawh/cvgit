@@ -5,3 +5,5 @@ Learn how to use git.
 Try log.
 
 Git has a mutable index called stage.
+
+Git tracks changes
